@@ -3,5 +3,13 @@
 	"workbench.editorAssociations": {
 		"*.md": "vscode.markdown.preview.editor"
 	},
-	"cSpell.words": ["pvalue", "ttest"]
+	"cSpell.words": [
+		"anova",
+		"Bonferroni",
+		"pvalue",
+		"Scheffé",
+		"ttest",
+		"Tukey",
+		"xticklabels"
+	]
 }
